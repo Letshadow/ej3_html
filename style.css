@@ -1,0 +1,64 @@
+/* -----------------ALLPAGES----------------*/
+*{
+    padding: 0;
+    margin: 0;
+}
+body{ 
+    padding: 10px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #333533;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #a2d2ff;
+}
+
+h1{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    color: #8338ec;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+    
+}
+img{
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+h2{
+    padding: 15px;
+    color: #f15bb5;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+ul{
+    padding: 15px;
+    margin-left:30px ;
+    list-style:disc;
+}
+
+.cdata{
+    font-size: 18px;
+    color: #FCF6BD;
+    font-weight: bold;
+}
+
+p{
+    margin-left: 15px;
+}
+a{
+    color:darkred;
+    font-size: 22px;
+}
+
+.character{
+    font-size: 16px;
+    color:#55C1A7;
+    
+    background-color: #000000;
+}
